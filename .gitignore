@@ -1,0 +1,5 @@
+model.pth
+optimizer.pth
+/MNIST
+MNIST.onnx
+
